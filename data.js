@@ -38,7 +38,7 @@ window.ARCHIVE_DATA = {
     rec('n2026',2026,'Constanza Lastra Errasti',[],'Santiago del Estero','elected','Representante Nacional de los Estudiantes',['src-gobjujuy','src-somosjujuy'])
   ],
   jujuy: [
-    jrec('j2010',2010,'María Sol Gutiérrez Mora',[] ,null,'San Pedro',null,null,'elected','Reina Provincial de los Estudiantes',['src-todojujuy','src-jujuyalmomento'],'Colegio NO CONFIRMADO. Coronación documental confirmada; fotografía fija de coronación no confirmada.'),
+    jrec('j2010',2010,'María Sol Gutiérrez Mora',[] ,null,'San Pedro',null,null,'elected','Reina Provincial de los Estudiantes',['src-todojujuy','src-jujuyalmomento'],'Colegio NO CONFIRMADO. Elegida Reina Provincial de Jujuy en Humahuaca (22/09/2010) representando al departamento San Pedro. Posteriormente consagrada 2.ª Dama de Honor Nacional en la Elección Reina Nacional de los Estudiantes (Estadio La Tablada, 24/09/2010). Fotografía fija de coronación no confirmada.'),
     jrec('j2011',2011,'Iris del Valle Yáñez',['Iris Yáñez'],'Colegio Nuestra Señora de las Mercedes','El Carmen','Monterrico',null,'elected','Reina Provincial de los Estudiantes',['src-jujuyalmomento','src-todojujuy'],'La fuente contemporánea también usa “Colegio de las Mercedes”.'),
     jrec('j2012',2012,'María Macarena García Melano',['Macarena García Melano'],'Colegio Jesús Maestro','San Pedro',null,null,'elected','Reina Provincial de los Estudiantes',['src-tribuno','src-todojujuy'],''),
     jrec('j2013',2013,'Valentina Mammana',[],'E.E.T./ENET Nº 1 “Escolástico Zegada”','Dr. Manuel Belgrano',null,null,'elected','Reina Provincial de los Estudiantes',['src-todojujuy','src-gazeta'],'Variante institucional E.E.T./ENET Nº1.'),
@@ -433,14 +433,16 @@ const IMAGE_SOURCE_TITLES = {
   'https://img.lagacetasalta.com.ar/fotos/notas/2023/09/30/tucumana-fue-coronada-reina-nacional-estudiantes-jujuy-1008209-150100.jpg':'Fotografía publicada por La Gaceta',
   'https://plataforma.iduo.com.ar/Panelcontenidos/Contenidos/1727664976.jpg':'Fotografía de Martina Rauschenberger 2024',
   'https://www.todojujuy.com/jujuy/luciana-garzon-giacoppo-la-region-valles-es-la-nueva-reina-provincial-el-ano-2018-n112404':'Luciana Garzón Giacoppo, de la región Valles, es la nueva reina provincial por el año 2018',
-  'https://www.nuevodiarioweb.com.ar/provinciales/info-santiago-estero-orgullo-la-santiaguena-constanza-lastra-errasti-es-la-nueva-representante-nacional-de-los-estudiantes.htm':'Constanza Lastra Errasti es la nueva Representante Nacional de los Estudiantes'
+  'https://www.nuevodiarioweb.com.ar/provinciales/info-santiago-estero-orgullo-la-santiaguena-constanza-lastra-errasti-es-la-nueva-representante-nacional-de-los-estudiantes.htm':'Constanza Lastra Errasti es la nueva Representante Nacional de los Estudiantes',
+  'https://diarionuevaciudad.blogspot.com/2010/09/saludo-protocolar-de-las-reinas.html':'Saludo protocolar de las Reinas Departamentales',
+  'https://fiestasestudiantiles.blogspot.com/2010/11/fiesta-nacional-de-los-estudiantes-en_17.html':'Fiesta Nacional de los Estudiantes en Jujuy — Elecciones Reinas 2010'
 };
+for(const src of window.ARCHIVE_DATA.sources){
+  const t=IMAGE_SOURCE_TITLES[src.url];
+  if(t){src.title=t;src.accessedAt='2026-09-29';}
+}
 for(const img of window.ARCHIVE_DATA.imageCatalog){
   const src = window.ARCHIVE_DATA.sources.find(s=>s.id===img.sourceId);
-  if(src){
-    const t=IMAGE_SOURCE_TITLES[src.url];
-    if(t){src.title=t;src.accessedAt='2026-09-29';}
-  }
   img.imageSource = src?.publisher || null;
   img.imageSourceTitle = src?.title || img.imageSourceTitle || img.sourceTitle || src?.publisher || null;
   img.imageSourceUrl = img.sourceUrl || src?.url || null;
@@ -452,6 +454,10 @@ for(const img of window.ARCHIVE_DATA.imageCatalog){
 
 for(const r of [...window.ARCHIVE_DATA.national,...window.ARCHIVE_DATA.jujuy]){
   const imgs=window.ARCHIVE_DATA.imageCatalog.filter(i=>i.recordId===r.id);
+  r.photoPresent = imgs.length > 0;
+  r.photoVerified = imgs.some(i=>i.verified);
+  r.photoType = imgs[0]?.imageType || null;
   r.photoStatus = r.status==='no-election' ? 'not-applicable' : (imgs.some(i=>i.verified)?'verified-direct':(imgs.length?'source-preview':'missing'));
   r.photoSourceUrl = imgs.find(i=>i.verified)?.sourcePreviewUrl || imgs.find(i=>i.sourcePreviewUrl)?.sourcePreviewUrl || null;
 }
+

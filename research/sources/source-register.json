@@ -213,13 +213,21 @@
     "id": "exact-j2010-1",
     "type": "secondary",
     "publisher": "Diario Nueva Ciudad",
-    "url": "https://diarionuevaciudad.blogspot.com/2010/09/saludo-protocolar-de-las-reinas.html"
+    "url": "https://diarionuevaciudad.blogspot.com/2010/09/saludo-protocolar-de-las-reinas.html",
+    "title": "Saludo protocolar de las Reinas Departamentales",
+    "recordId": "j2010",
+    "contribution": "Acredita la recepción oficial de las 16 reinas departamentales en Casa de Gobierno (21/09/2010) y la representación de María Sol Gutiérrez Mora por San Pedro.",
+    "accessedAt": "2026-09-29"
   },
   {
     "id": "exact-j2010-2",
     "type": "secondary",
     "publisher": "Fiestas Estudiantiles",
-    "url": "https://fiestasestudiantiles.blogspot.com/2010/11/fiesta-nacional-de-los-estudiantes-en_17.html"
+    "url": "https://fiestasestudiantiles.blogspot.com/2010/11/fiesta-nacional-de-los-estudiantes-en_17.html",
+    "title": "Fiesta Nacional de los Estudiantes en Jujuy — Elecciones Reinas 2010",
+    "recordId": "j2010",
+    "contribution": "Crónica documental de la Elección Provincial en Humahuaca (22/09/2010) con la corte completa y de la Elección Nacional en el Estadio La Tablada.",
+    "accessedAt": "2026-09-29"
   },
   {
     "id": "exact-j2011-1",
