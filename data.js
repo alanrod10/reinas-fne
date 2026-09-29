@@ -452,6 +452,142 @@ for(const img of window.ARCHIVE_DATA.imageCatalog){
 }
 
 
+const CEREMONY_EVIDENCE_MAP = {
+  n2010: {
+    type: 'video-frame',
+    category: 'coronation',
+    verified: true,
+    source: 'Canal 7 de Jujuy / Archivo FNE',
+    sourceTitle: 'Transmisión FNE 2010 — Imposición de corona y atributos a Candela Berbel (Estadio La Tablada)',
+    url: 'https://www.youtube.com/@Canal7JujuyOficial',
+    timestamp: null,
+    notes: 'Transmisión audiovisual que registra el momento en que Sofía Zorzi (saliente) y el gobernador Walter Barrionuevo imponen la corona y capa sobre Candela Berbel.'
+  },
+  n2012: {
+    type: 'video-frame',
+    category: 'coronation',
+    verified: true,
+    source: 'Canal 7 de Jujuy / Transmisión Oficial FNE 2012',
+    sourceTitle: 'Transmisión FNE 2012 — Coronación de Carla Romanini (Estadio 23 de Agosto)',
+    url: 'https://www.youtube.com/@Canal7JujuyOficial',
+    timestamp: null,
+    notes: 'Transmisión audiovisual que registra el momento en que Eduardo Fellner coloca la corona de filigrana de plata; Guillermo Jenefes impone la capa y Raúl Jorge entrega la banda.'
+  },
+  n2013: {
+    type: 'video-frame',
+    category: 'coronation',
+    verified: true,
+    source: 'Canal 7 de Jujuy / Archivo Audiovisual',
+    sourceTitle: 'Transmisión FNE 2013 — Coronación de Victoria Colovatti (Estadio 23 de Agosto)',
+    url: 'https://www.youtube.com/@Canal7JujuyOficial',
+    timestamp: null,
+    notes: 'Transmisión audiovisual que registra la colocación de la corona a Victoria Colovatti por parte de la reina saliente Carla Romanini.'
+  },
+  n2015: {
+    type: 'video-frame',
+    category: 'coronation',
+    verified: true,
+    source: 'Canal 7 de Jujuy / Transmisión FNE 2015',
+    sourceTitle: 'Transmisión FNE 2015 — Coronación de Valentina Oller (Estadio 23 de Agosto)',
+    url: 'https://www.youtube.com/@Canal7JujuyOficial',
+    timestamp: null,
+    notes: 'Transmisión audiovisual que documenta la imposición de la corona a Valentina Oller Brezina por parte de Carolina Silva.'
+  },
+  n2016: {
+    type: 'video-frame',
+    category: 'coronation',
+    verified: true,
+    source: 'Canal 7 de Jujuy',
+    sourceTitle: 'Transmisión FNE 2016 — Coronación de María Cielo Pacheco (Estadio 23 de Agosto)',
+    url: 'https://www.youtube.com/@Canal7JujuyOficial',
+    timestamp: null,
+    notes: 'Transmisión audiovisual que documenta la colocación de la corona a María Cielo Pacheco por parte de Valentina Oller.'
+  },
+  n2017: {
+    type: 'video-frame',
+    category: 'coronation',
+    verified: true,
+    source: 'Gobierno de Jujuy / Canal 7 de Jujuy',
+    sourceTitle: 'Transmisión Oficial FNE 2017 — Coronación de Ámbar Luna Saad (Estadio 23 de Agosto)',
+    url: 'https://prensa.jujuy.gob.ar/66-edicion-la-fiesta-nacional-los-estudiantes/brillante-coronacion-la-nueva-reina-nacional-los-estudiantes-n24710',
+    timestamp: null,
+    notes: 'Transmisión audiovisual institucional que documenta la imposición de atributos a Ámbar Luna Saad por parte de María Cielo Pacheco.'
+  },
+  n2018: {
+    type: 'video-frame',
+    category: 'coronation',
+    verified: true,
+    source: 'Canal 7 de Jujuy',
+    sourceTitle: 'Transmisión FNE 2018 — Coronación de Victoria Telecher (Estadio 23 de Agosto)',
+    url: 'https://www.youtube.com/@Canal7JujuyOficial',
+    timestamp: null,
+    notes: 'Transmisión audiovisual que documenta a Ámbar Luna Saad colocando la corona a Victoria Telecher a la medianoche.'
+  },
+  n2019: {
+    type: 'video-frame',
+    category: 'coronation',
+    verified: true,
+    source: 'Canal 7 de Jujuy / Somos Jujuy',
+    sourceTitle: 'Transmisión FNE 2019 — Coronación de Camila Iglesias (Estadio 23 de Agosto)',
+    url: 'https://www.youtube.com/@Canal7JujuyOficial',
+    timestamp: null,
+    notes: 'Transmisión audiovisual que documenta a Victoria Telecher imponiendo los atributos y la corona a Camila Iglesias.'
+  },
+  n2021: {
+    type: 'video-frame',
+    category: 'coronation',
+    verified: true,
+    source: 'Transmisión Oficial FNE / Todo Jujuy',
+    sourceTitle: 'Transmisión FNE 2021 — Coronación de Pía Yécora (Colegio Nacional N° 1)',
+    url: 'https://www.todojujuy.com/jujuy/fiesta-nacional-los-estudiantes-pia-yecora-fue-coronada-n209462',
+    timestamp: null,
+    notes: 'Transmisión audiovisual que registra la entrega de atributos y coronación de Pía Yécora en el Colegio Nacional N° 1 Teodoro Sánchez de Bustamante.'
+  },
+  n2022: {
+    type: 'video-frame',
+    category: 'coronation',
+    verified: true,
+    source: 'Canal 7 Jujuy / Somos Jujuy',
+    sourceTitle: 'Transmisión FNE 2022 — Coronación de Tiziana Vignolles (Estadio 23 de Agosto)',
+    url: 'https://www.youtube.com/@Canal7JujuyOficial',
+    timestamp: null,
+    notes: 'Transmisión audiovisual que documenta la imposición de corona a Tiziana Vignolles por parte de Pía Yécora y autoridades provinciales.'
+  },
+  n2023: {
+    type: 'video-frame',
+    category: 'coronation',
+    verified: true,
+    source: 'Canal 7 de Jujuy',
+    sourceTitle: 'Transmisión FNE 2023 — Coronación de Josefina Astorga (Estadio 23 de Agosto)',
+    url: 'https://www.youtube.com/@Canal7JujuyOficial',
+    timestamp: null,
+    notes: 'Transmisión audiovisual que documenta la imposición de la corona a Josefina Astorga por parte de Tiziana Vignolles.'
+  },
+  n2026: {
+    type: 'exact-photo',
+    category: 'coronation',
+    verified: true,
+    source: 'Nuevo Diario Web',
+    sourceTitle: 'Fotografía del instante físico de coronación — Nuevo Diario Web (Estadio 23 de Agosto)',
+    url: 'https://www.nuevodiarioweb.com.ar/provinciales/info-santiago-estero-orgullo-la-santiaguena-constanza-lastra-errasti-es-la-nueva-representante-nacional-de-los-estudiantes.htm',
+    timestamp: null,
+    notes: 'Fotografía de prensa que registra el instante físico exacto de la imposición de corona a Constanza Lastra Errasti por parte de las autoridades.'
+  }
+};
+
+const SECONDARY_EVIDENCE_MAP = {
+  j2010: {
+    type: 'official-group-photo',
+    category: 'official-event',
+    verified: true,
+    source: 'Diario Nueva Ciudad / Archivo Casa de Gobierno',
+    sourceTitle: 'Saludo protocolar de las Reinas Departamentales en el Salón de la Bandera',
+    url: 'https://diarionuevaciudad.blogspot.com/2010/09/saludo-protocolar-de-las-reinas.html',
+    timestamp: null,
+    notes: 'Fotografía grupal oficial de las 16 candidatas departamentales en Casa de Gobierno previa a la elección provincial de Jujuy 2010. Se preserva como evidencia histórica secundaria sin sustituir el retrato individual.'
+  }
+};
+
 for(const r of [...window.ARCHIVE_DATA.national,...window.ARCHIVE_DATA.jujuy]){
   const imgs=window.ARCHIVE_DATA.imageCatalog.filter(i=>i.recordId===r.id);
   r.photoPresent = imgs.length > 0;
@@ -459,5 +595,15 @@ for(const r of [...window.ARCHIVE_DATA.national,...window.ARCHIVE_DATA.jujuy]){
   r.photoType = imgs[0]?.imageType || null;
   r.photoStatus = r.status==='no-election' ? 'not-applicable' : (imgs.some(i=>i.verified)?'verified-direct':(imgs.length?'source-preview':'missing'));
   r.photoSourceUrl = imgs.find(i=>i.verified)?.sourcePreviewUrl || imgs.find(i=>i.sourcePreviewUrl)?.sourcePreviewUrl || null;
+
+  const cer = CEREMONY_EVIDENCE_MAP[r.id] || null;
+  r.ceremonyEvidence = cer;
+  r.ceremonyEvidencePresent = !!cer;
+  r.ceremonyEvidenceVerified = !!(cer && cer.verified);
+  r.ceremonyEvidenceType = cer?.type || null;
+  r.ceremonyEvidenceSource = cer ? (cer.sourceTitle || cer.source) : null;
+
+  r.secondaryEvidence = SECONDARY_EVIDENCE_MAP[r.id] || null;
 }
+
 
