@@ -454,137 +454,202 @@ for(const img of window.ARCHIVE_DATA.imageCatalog){
 
 const CEREMONY_EVIDENCE_MAP = {
   n2010: {
+    persona: 'Candela Berbel',
+    year: 2010,
+    event: '60.ª Fiesta Nacional de los Estudiantes — Elección Nacional',
     type: 'video-frame',
     category: 'coronation',
     verified: true,
     source: 'Canal 7 de Jujuy / Archivo FNE',
     sourceTitle: 'Transmisión FNE 2010 — Imposición de corona y atributos a Candela Berbel (Estadio La Tablada)',
-    url: 'https://www.youtube.com/@Canal7JujuyOficial',
+    sourceUrl: null,
+    url: null,
     timestamp: null,
-    notes: 'Transmisión audiovisual que registra el momento en que Sofía Zorzi (saliente) y el gobernador Walter Barrionuevo imponen la corona y capa sobre Candela Berbel.'
+    notes: 'Transmisión audiovisual que registra el momento en que Sofía Zorzi (saliente) y el gobernador Walter Barrionuevo imponen la corona y capa sobre Candela Berbel.',
+    limitation: 'Archivo de emisión televisiva de Canal 7 de Jujuy; registro en video de archivo sin enlace web público directo persistente indexado.'
   },
   n2012: {
+    persona: 'Carla Lucía Romanini',
+    year: 2012,
+    event: '61.ª Fiesta Nacional de los Estudiantes — Elección Nacional',
     type: 'video-frame',
     category: 'coronation',
     verified: true,
     source: 'Canal 7 de Jujuy / Transmisión Oficial FNE 2012',
     sourceTitle: 'Transmisión FNE 2012 — Coronación de Carla Romanini (Estadio 23 de Agosto)',
-    url: 'https://www.youtube.com/@Canal7JujuyOficial',
+    sourceUrl: null,
+    url: null,
     timestamp: null,
-    notes: 'Transmisión audiovisual que registra el momento en que Eduardo Fellner coloca la corona de filigrana de plata; Guillermo Jenefes impone la capa y Raúl Jorge entrega la banda.'
+    notes: 'Transmisión audiovisual que registra el momento en que Eduardo Fellner coloca la corona de filigrana de plata; Guillermo Jenefes impone la capa y Raúl Jorge entrega la banda.',
+    limitation: 'Archivo de transmisión televisiva en vivo de Canal 7 de Jujuy; sin URL pública directa persistente.'
   },
   n2013: {
+    persona: 'Victoria Colovatti',
+    year: 2013,
+    event: '62.ª Fiesta Nacional de los Estudiantes — Elección Nacional',
     type: 'video-frame',
     category: 'coronation',
     verified: true,
     source: 'Canal 7 de Jujuy / Archivo Audiovisual',
     sourceTitle: 'Transmisión FNE 2013 — Coronación de Victoria Colovatti (Estadio 23 de Agosto)',
-    url: 'https://www.youtube.com/@Canal7JujuyOficial',
+    sourceUrl: null,
+    url: null,
     timestamp: null,
-    notes: 'Transmisión audiovisual que registra la colocación de la corona a Victoria Colovatti por parte de la reina saliente Carla Romanini.'
+    notes: 'Transmisión audiovisual que registra la colocación de la corona a Victoria Colovatti por parte de la reina saliente Carla Romanini.',
+    limitation: 'Archivo de transmisión televisiva de Canal 7 de Jujuy; sin URL pública directa persistente.'
   },
   n2015: {
+    persona: 'Valentina Oller Brezina',
+    year: 2015,
+    event: '64.ª Fiesta Nacional de los Estudiantes — Elección Nacional',
     type: 'video-frame',
     category: 'coronation',
     verified: true,
     source: 'Canal 7 de Jujuy / Transmisión FNE 2015',
     sourceTitle: 'Transmisión FNE 2015 — Coronación de Valentina Oller (Estadio 23 de Agosto)',
-    url: 'https://www.youtube.com/@Canal7JujuyOficial',
+    sourceUrl: null,
+    url: null,
     timestamp: null,
-    notes: 'Transmisión audiovisual que documenta la imposición de la corona a Valentina Oller Brezina por parte de Carolina Silva.'
+    notes: 'Transmisión audiovisual que documenta la imposición de la corona a Valentina Oller Brezina por parte de Carolina Silva.',
+    limitation: 'Archivo de transmisión televisiva de Canal 7 de Jujuy; sin URL pública directa persistente.'
   },
   n2016: {
+    persona: 'María Cielo Pacheco',
+    year: 2016,
+    event: '65.ª Fiesta Nacional de los Estudiantes — Elección Nacional',
     type: 'video-frame',
     category: 'coronation',
     verified: true,
     source: 'Canal 7 de Jujuy',
     sourceTitle: 'Transmisión FNE 2016 — Coronación de María Cielo Pacheco (Estadio 23 de Agosto)',
-    url: 'https://www.youtube.com/@Canal7JujuyOficial',
+    sourceUrl: null,
+    url: null,
     timestamp: null,
-    notes: 'Transmisión audiovisual que documenta la colocación de la corona a María Cielo Pacheco por parte de Valentina Oller.'
+    notes: 'Transmisión audiovisual que documenta la colocación de la corona a María Cielo Pacheco por parte de Valentina Oller.',
+    limitation: 'Archivo de transmisión televisiva de Canal 7 de Jujuy; sin URL pública directa persistente.'
   },
   n2017: {
+    persona: 'Ámbar Luna Saad',
+    year: 2017,
+    event: '66.ª Fiesta Nacional de los Estudiantes — Elección Nacional',
     type: 'video-frame',
     category: 'coronation',
     verified: true,
     source: 'Gobierno de Jujuy / Canal 7 de Jujuy',
     sourceTitle: 'Transmisión Oficial FNE 2017 — Coronación de Ámbar Luna Saad (Estadio 23 de Agosto)',
+    sourceUrl: 'https://prensa.jujuy.gob.ar/66-edicion-la-fiesta-nacional-los-estudiantes/brillante-coronacion-la-nueva-reina-nacional-los-estudiantes-n24710',
     url: 'https://prensa.jujuy.gob.ar/66-edicion-la-fiesta-nacional-los-estudiantes/brillante-coronacion-la-nueva-reina-nacional-los-estudiantes-n24710',
     timestamp: null,
-    notes: 'Transmisión audiovisual institucional que documenta la imposición de atributos a Ámbar Luna Saad por parte de María Cielo Pacheco.'
+    notes: 'Transmisión audiovisual institucional que documenta la imposición de atributos a Ámbar Luna Saad por parte de María Cielo Pacheco.',
+    limitation: null
   },
   n2018: {
+    persona: 'Victoria Telecher',
+    year: 2018,
+    event: '67.ª Fiesta Nacional de los Estudiantes — Elección Nacional',
     type: 'video-frame',
     category: 'coronation',
     verified: true,
     source: 'Canal 7 de Jujuy',
     sourceTitle: 'Transmisión FNE 2018 — Coronación de Victoria Telecher (Estadio 23 de Agosto)',
-    url: 'https://www.youtube.com/@Canal7JujuyOficial',
+    sourceUrl: null,
+    url: null,
     timestamp: null,
-    notes: 'Transmisión audiovisual que documenta a Ámbar Luna Saad colocando la corona a Victoria Telecher a la medianoche.'
+    notes: 'Transmisión audiovisual que documenta a Ámbar Luna Saad colocando la corona a Victoria Telecher a la medianoche.',
+    limitation: 'Archivo de transmisión televisiva de Canal 7 de Jujuy; sin URL pública directa persistente.'
   },
   n2019: {
+    persona: 'Camila Iglesias',
+    year: 2019,
+    event: '68.ª Fiesta Nacional de los Estudiantes — Elección Nacional',
     type: 'video-frame',
     category: 'coronation',
     verified: true,
     source: 'Canal 7 de Jujuy / Somos Jujuy',
     sourceTitle: 'Transmisión FNE 2019 — Coronación de Camila Iglesias (Estadio 23 de Agosto)',
-    url: 'https://www.youtube.com/@Canal7JujuyOficial',
+    sourceUrl: null,
+    url: null,
     timestamp: null,
-    notes: 'Transmisión audiovisual que documenta a Victoria Telecher imponiendo los atributos y la corona a Camila Iglesias.'
+    notes: 'Transmisión audiovisual que documenta a Victoria Telecher imponiendo los atributos y la corona a Camila Iglesias.',
+    limitation: 'Archivo de transmisión televisiva de Canal 7 de Jujuy; sin URL pública directa persistente.'
   },
   n2021: {
+    persona: 'Pía Yécora',
+    year: 2021,
+    event: '70.ª Fiesta Nacional de los Estudiantes — Elección Nacional',
     type: 'video-frame',
     category: 'coronation',
     verified: true,
     source: 'Transmisión Oficial FNE / Todo Jujuy',
     sourceTitle: 'Transmisión FNE 2021 — Coronación de Pía Yécora (Colegio Nacional N° 1)',
+    sourceUrl: 'https://www.todojujuy.com/jujuy/fiesta-nacional-los-estudiantes-pia-yecora-fue-coronada-n209462',
     url: 'https://www.todojujuy.com/jujuy/fiesta-nacional-los-estudiantes-pia-yecora-fue-coronada-n209462',
     timestamp: null,
-    notes: 'Transmisión audiovisual que registra la entrega de atributos y coronación de Pía Yécora en el Colegio Nacional N° 1 Teodoro Sánchez de Bustamante.'
+    notes: 'Transmisión audiovisual que registra la entrega de atributos y coronación de Pía Yécora en el Colegio Nacional N° 1 Teodoro Sánchez de Bustamante.',
+    limitation: null
   },
   n2022: {
+    persona: 'Tiziana Vignolles',
+    year: 2022,
+    event: '71.ª Fiesta Nacional de los Estudiantes — Elección Nacional',
     type: 'video-frame',
     category: 'coronation',
     verified: true,
     source: 'Canal 7 Jujuy / Somos Jujuy',
     sourceTitle: 'Transmisión FNE 2022 — Coronación de Tiziana Vignolles (Estadio 23 de Agosto)',
-    url: 'https://www.youtube.com/@Canal7JujuyOficial',
+    sourceUrl: null,
+    url: null,
     timestamp: null,
-    notes: 'Transmisión audiovisual que documenta la imposición de corona a Tiziana Vignolles por parte de Pía Yécora y autoridades provinciales.'
+    notes: 'Transmisión audiovisual que documenta la imposición de corona a Tiziana Vignolles por parte de Pía Yécora y autoridades provinciales.',
+    limitation: 'Archivo de transmisión televisiva de Canal 7 de Jujuy; sin URL pública directa persistente.'
   },
   n2023: {
+    persona: 'Josefina Astorga',
+    year: 2023,
+    event: '72.ª Fiesta Nacional de los Estudiantes — Elección Nacional',
     type: 'video-frame',
     category: 'coronation',
     verified: true,
     source: 'Canal 7 de Jujuy',
     sourceTitle: 'Transmisión FNE 2023 — Coronación de Josefina Astorga (Estadio 23 de Agosto)',
-    url: 'https://www.youtube.com/@Canal7JujuyOficial',
+    sourceUrl: null,
+    url: null,
     timestamp: null,
-    notes: 'Transmisión audiovisual que documenta la imposición de la corona a Josefina Astorga por parte de Tiziana Vignolles.'
+    notes: 'Transmisión audiovisual que documenta la imposición de la corona a Josefina Astorga por parte de Tiziana Vignolles.',
+    limitation: 'Archivo de transmisión televisiva de Canal 7 de Jujuy; sin URL pública directa persistente.'
   },
   n2026: {
+    persona: 'Constanza Lastra Errasti',
+    year: 2026,
+    event: '75.ª Fiesta Nacional de los Estudiantes — Elección Nacional',
     type: 'exact-photo',
     category: 'coronation',
     verified: true,
     source: 'Nuevo Diario Web',
     sourceTitle: 'Fotografía del instante físico de coronación — Nuevo Diario Web (Estadio 23 de Agosto)',
+    sourceUrl: 'https://www.nuevodiarioweb.com.ar/provinciales/info-santiago-estero-orgullo-la-santiaguena-constanza-lastra-errasti-es-la-nueva-representante-nacional-de-los-estudiantes.htm',
     url: 'https://www.nuevodiarioweb.com.ar/provinciales/info-santiago-estero-orgullo-la-santiaguena-constanza-lastra-errasti-es-la-nueva-representante-nacional-de-los-estudiantes.htm',
     timestamp: null,
-    notes: 'Fotografía de prensa que registra el instante físico exacto de la imposición de corona a Constanza Lastra Errasti por parte de las autoridades.'
+    notes: 'Fotografía de prensa que registra el instante físico exacto de la imposición de corona a Constanza Lastra Errasti por parte de las autoridades.',
+    limitation: null
   }
 };
 
 const SECONDARY_EVIDENCE_MAP = {
   j2010: {
+    persona: 'María Sol Gutiérrez Mora',
+    year: 2010,
+    event: 'Elección Provincial de los Estudiantes de Jujuy 2010 — Actos protocolares',
     type: 'official-group-photo',
     category: 'official-event',
     verified: true,
     source: 'Diario Nueva Ciudad / Archivo Casa de Gobierno',
     sourceTitle: 'Saludo protocolar de las Reinas Departamentales en el Salón de la Bandera',
+    sourceUrl: 'https://diarionuevaciudad.blogspot.com/2010/09/saludo-protocolar-de-las-reinas.html',
     url: 'https://diarionuevaciudad.blogspot.com/2010/09/saludo-protocolar-de-las-reinas.html',
     timestamp: null,
-    notes: 'Fotografía grupal oficial de las 16 candidatas departamentales en Casa de Gobierno previa a la elección provincial de Jujuy 2010. Se preserva como evidencia histórica secundaria sin sustituir el retrato individual.'
+    notes: 'Fotografía grupal oficial de las 16 candidatas departamentales en Casa de Gobierno previa a la elección provincial de Jujuy 2010. Se preserva como evidencia histórica secundaria sin sustituir el retrato individual.',
+    limitation: 'Toma de conjunto; no constituye retrato individual de escenario.'
   }
 };
 
