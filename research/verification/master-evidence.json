@@ -95,7 +95,26 @@
         "exact-n2010-1"
       ]
     },
-    "notes": []
+    "notes": [],
+    "ceremonyEvidencePresent": true,
+    "ceremonyEvidenceVerified": true,
+    "ceremonyEvidenceType": "video-frame",
+    "ceremonyEvidenceSource": "Transmisión FNE 2010 — Imposición de corona y atributos a Candela Berbel (Estadio La Tablada)",
+    "ceremonyEvidence": {
+      "persona": "Candela Berbel",
+      "year": 2010,
+      "event": "60.ª Fiesta Nacional de los Estudiantes — Elección Nacional",
+      "type": "video-frame",
+      "category": "coronation",
+      "verified": true,
+      "source": "Canal 7 de Jujuy / Archivo FNE",
+      "sourceTitle": "Transmisión FNE 2010 — Imposición de corona y atributos a Candela Berbel (Estadio La Tablada)",
+      "sourceUrl": null,
+      "url": null,
+      "timestamp": null,
+      "notes": "Transmisión audiovisual que registra el momento en que Sofía Zorzi (saliente) y el gobernador Walter Barrionuevo imponen la corona y capa sobre Candela Berbel.",
+      "limitation": "Archivo de emisión televisiva de Canal 7 de Jujuy; registro en video de archivo sin enlace web público directo persistente indexado."
+    }
   },
   {
     "id": "n2011",
@@ -195,7 +214,12 @@
         "imgsrc-n2011-photo-source-1"
       ]
     },
-    "notes": []
+    "notes": [],
+    "ceremonyEvidencePresent": false,
+    "ceremonyEvidenceVerified": false,
+    "ceremonyEvidenceType": null,
+    "ceremonyEvidenceSource": null,
+    "ceremonyEvidence": null
   },
   {
     "id": "n2012",
@@ -294,7 +318,26 @@
         "imgsrc-n2012-photo-source-1"
       ]
     },
-    "notes": []
+    "notes": [],
+    "ceremonyEvidencePresent": true,
+    "ceremonyEvidenceVerified": true,
+    "ceremonyEvidenceType": "video-frame",
+    "ceremonyEvidenceSource": "Transmisión FNE 2012 — Coronación de Carla Romanini (Estadio 23 de Agosto)",
+    "ceremonyEvidence": {
+      "persona": "Carla Lucía Romanini",
+      "year": 2012,
+      "event": "61.ª Fiesta Nacional de los Estudiantes — Elección Nacional",
+      "type": "video-frame",
+      "category": "coronation",
+      "verified": true,
+      "source": "Canal 7 de Jujuy / Transmisión Oficial FNE 2012",
+      "sourceTitle": "Transmisión FNE 2012 — Coronación de Carla Romanini (Estadio 23 de Agosto)",
+      "sourceUrl": null,
+      "url": null,
+      "timestamp": null,
+      "notes": "Transmisión audiovisual que registra el momento en que Eduardo Fellner coloca la corona de filigrana de plata; Guillermo Jenefes impone la capa y Raúl Jorge entrega la banda.",
+      "limitation": "Archivo de transmisión televisiva en vivo de Canal 7 de Jujuy; sin URL pública directa persistente."
+    }
   },
   {
     "id": "n2013",
@@ -391,7 +434,26 @@
         "imgsrc-n2013-source-1"
       ]
     },
-    "notes": []
+    "notes": [],
+    "ceremonyEvidencePresent": true,
+    "ceremonyEvidenceVerified": true,
+    "ceremonyEvidenceType": "video-frame",
+    "ceremonyEvidenceSource": "Transmisión FNE 2013 — Coronación de Victoria Colovatti (Estadio 23 de Agosto)",
+    "ceremonyEvidence": {
+      "persona": "Victoria Colovatti",
+      "year": 2013,
+      "event": "62.ª Fiesta Nacional de los Estudiantes — Elección Nacional",
+      "type": "video-frame",
+      "category": "coronation",
+      "verified": true,
+      "source": "Canal 7 de Jujuy / Archivo Audiovisual",
+      "sourceTitle": "Transmisión FNE 2013 — Coronación de Victoria Colovatti (Estadio 23 de Agosto)",
+      "sourceUrl": null,
+      "url": null,
+      "timestamp": null,
+      "notes": "Transmisión audiovisual que registra la colocación de la corona a Victoria Colovatti por parte de la reina saliente Carla Romanini.",
+      "limitation": "Archivo de transmisión televisiva de Canal 7 de Jujuy; sin URL pública directa persistente."
+    }
   },
   {
     "id": "n2014",
@@ -490,7 +552,12 @@
         "imgsrc-n2014-source-1"
       ]
     },
-    "notes": []
+    "notes": [],
+    "ceremonyEvidencePresent": false,
+    "ceremonyEvidenceVerified": false,
+    "ceremonyEvidenceType": null,
+    "ceremonyEvidenceSource": null,
+    "ceremonyEvidence": null
   },
   {
     "id": "n2015",
@@ -589,7 +656,26 @@
         "imgsrc-n2015-source-1"
       ]
     },
-    "notes": []
+    "notes": [],
+    "ceremonyEvidencePresent": true,
+    "ceremonyEvidenceVerified": true,
+    "ceremonyEvidenceType": "video-frame",
+    "ceremonyEvidenceSource": "Transmisión FNE 2015 — Coronación de Valentina Oller (Estadio 23 de Agosto)",
+    "ceremonyEvidence": {
+      "persona": "Valentina Oller Brezina",
+      "year": 2015,
+      "event": "64.ª Fiesta Nacional de los Estudiantes — Elección Nacional",
+      "type": "video-frame",
+      "category": "coronation",
+      "verified": true,
+      "source": "Canal 7 de Jujuy / Transmisión FNE 2015",
+      "sourceTitle": "Transmisión FNE 2015 — Coronación de Valentina Oller (Estadio 23 de Agosto)",
+      "sourceUrl": null,
+      "url": null,
+      "timestamp": null,
+      "notes": "Transmisión audiovisual que documenta la imposición de la corona a Valentina Oller Brezina por parte de Carolina Silva.",
+      "limitation": "Archivo de transmisión televisiva de Canal 7 de Jujuy; sin URL pública directa persistente."
+    }
   },
   {
     "id": "n2016",
@@ -688,7 +774,26 @@
         "imgsrc-n2016-source-1"
       ]
     },
-    "notes": []
+    "notes": [],
+    "ceremonyEvidencePresent": true,
+    "ceremonyEvidenceVerified": true,
+    "ceremonyEvidenceType": "video-frame",
+    "ceremonyEvidenceSource": "Transmisión FNE 2016 — Coronación de María Cielo Pacheco (Estadio 23 de Agosto)",
+    "ceremonyEvidence": {
+      "persona": "María Cielo Pacheco",
+      "year": 2016,
+      "event": "65.ª Fiesta Nacional de los Estudiantes — Elección Nacional",
+      "type": "video-frame",
+      "category": "coronation",
+      "verified": true,
+      "source": "Canal 7 de Jujuy",
+      "sourceTitle": "Transmisión FNE 2016 — Coronación de María Cielo Pacheco (Estadio 23 de Agosto)",
+      "sourceUrl": null,
+      "url": null,
+      "timestamp": null,
+      "notes": "Transmisión audiovisual que documenta la colocación de la corona a María Cielo Pacheco por parte de Valentina Oller.",
+      "limitation": "Archivo de transmisión televisiva de Canal 7 de Jujuy; sin URL pública directa persistente."
+    }
   },
   {
     "id": "n2017",
@@ -787,7 +892,26 @@
         "imgsrc-n2017-source-1"
       ]
     },
-    "notes": []
+    "notes": [],
+    "ceremonyEvidencePresent": true,
+    "ceremonyEvidenceVerified": true,
+    "ceremonyEvidenceType": "video-frame",
+    "ceremonyEvidenceSource": "Transmisión Oficial FNE 2017 — Coronación de Ámbar Luna Saad (Estadio 23 de Agosto)",
+    "ceremonyEvidence": {
+      "persona": "Ámbar Luna Saad",
+      "year": 2017,
+      "event": "66.ª Fiesta Nacional de los Estudiantes — Elección Nacional",
+      "type": "video-frame",
+      "category": "coronation",
+      "verified": true,
+      "source": "Gobierno de Jujuy / Canal 7 de Jujuy",
+      "sourceTitle": "Transmisión Oficial FNE 2017 — Coronación de Ámbar Luna Saad (Estadio 23 de Agosto)",
+      "sourceUrl": "https://prensa.jujuy.gob.ar/66-edicion-la-fiesta-nacional-los-estudiantes/brillante-coronacion-la-nueva-reina-nacional-los-estudiantes-n24710",
+      "url": "https://prensa.jujuy.gob.ar/66-edicion-la-fiesta-nacional-los-estudiantes/brillante-coronacion-la-nueva-reina-nacional-los-estudiantes-n24710",
+      "timestamp": null,
+      "notes": "Transmisión audiovisual institucional que documenta la imposición de atributos a Ámbar Luna Saad por parte de María Cielo Pacheco.",
+      "limitation": null
+    }
   },
   {
     "id": "n2018",
@@ -884,7 +1008,26 @@
         "imgsrc-n2018-source-1"
       ]
     },
-    "notes": []
+    "notes": [],
+    "ceremonyEvidencePresent": true,
+    "ceremonyEvidenceVerified": true,
+    "ceremonyEvidenceType": "video-frame",
+    "ceremonyEvidenceSource": "Transmisión FNE 2018 — Coronación de Victoria Telecher (Estadio 23 de Agosto)",
+    "ceremonyEvidence": {
+      "persona": "Victoria Telecher",
+      "year": 2018,
+      "event": "67.ª Fiesta Nacional de los Estudiantes — Elección Nacional",
+      "type": "video-frame",
+      "category": "coronation",
+      "verified": true,
+      "source": "Canal 7 de Jujuy",
+      "sourceTitle": "Transmisión FNE 2018 — Coronación de Victoria Telecher (Estadio 23 de Agosto)",
+      "sourceUrl": null,
+      "url": null,
+      "timestamp": null,
+      "notes": "Transmisión audiovisual que documenta a Ámbar Luna Saad colocando la corona a Victoria Telecher a la medianoche.",
+      "limitation": "Archivo de transmisión televisiva de Canal 7 de Jujuy; sin URL pública directa persistente."
+    }
   },
   {
     "id": "n2019",
@@ -979,7 +1122,26 @@
         "exact-n2019-1"
       ]
     },
-    "notes": []
+    "notes": [],
+    "ceremonyEvidencePresent": true,
+    "ceremonyEvidenceVerified": true,
+    "ceremonyEvidenceType": "video-frame",
+    "ceremonyEvidenceSource": "Transmisión FNE 2019 — Coronación de Camila Iglesias (Estadio 23 de Agosto)",
+    "ceremonyEvidence": {
+      "persona": "Camila Iglesias",
+      "year": 2019,
+      "event": "68.ª Fiesta Nacional de los Estudiantes — Elección Nacional",
+      "type": "video-frame",
+      "category": "coronation",
+      "verified": true,
+      "source": "Canal 7 de Jujuy / Somos Jujuy",
+      "sourceTitle": "Transmisión FNE 2019 — Coronación de Camila Iglesias (Estadio 23 de Agosto)",
+      "sourceUrl": null,
+      "url": null,
+      "timestamp": null,
+      "notes": "Transmisión audiovisual que documenta a Victoria Telecher imponiendo los atributos y la corona a Camila Iglesias.",
+      "limitation": "Archivo de transmisión televisiva de Canal 7 de Jujuy; sin URL pública directa persistente."
+    }
   },
   {
     "id": "n2020",
@@ -1036,7 +1198,12 @@
         "exact-n2020-1"
       ]
     },
-    "notes": []
+    "notes": [],
+    "ceremonyEvidencePresent": false,
+    "ceremonyEvidenceVerified": false,
+    "ceremonyEvidenceType": null,
+    "ceremonyEvidenceSource": null,
+    "ceremonyEvidence": null
   },
   {
     "id": "n2021",
@@ -1133,7 +1300,26 @@
         "imgsrc-n2021-photo-source-1"
       ]
     },
-    "notes": []
+    "notes": [],
+    "ceremonyEvidencePresent": true,
+    "ceremonyEvidenceVerified": true,
+    "ceremonyEvidenceType": "video-frame",
+    "ceremonyEvidenceSource": "Transmisión FNE 2021 — Coronación de Pía Yécora (Colegio Nacional N° 1)",
+    "ceremonyEvidence": {
+      "persona": "Pía Yécora",
+      "year": 2021,
+      "event": "70.ª Fiesta Nacional de los Estudiantes — Elección Nacional",
+      "type": "video-frame",
+      "category": "coronation",
+      "verified": true,
+      "source": "Transmisión Oficial FNE / Todo Jujuy",
+      "sourceTitle": "Transmisión FNE 2021 — Coronación de Pía Yécora (Colegio Nacional N° 1)",
+      "sourceUrl": "https://www.todojujuy.com/jujuy/fiesta-nacional-los-estudiantes-pia-yecora-fue-coronada-n209462",
+      "url": "https://www.todojujuy.com/jujuy/fiesta-nacional-los-estudiantes-pia-yecora-fue-coronada-n209462",
+      "timestamp": null,
+      "notes": "Transmisión audiovisual que registra la entrega de atributos y coronación de Pía Yécora en el Colegio Nacional N° 1 Teodoro Sánchez de Bustamante.",
+      "limitation": null
+    }
   },
   {
     "id": "n2022",
@@ -1230,7 +1416,26 @@
         "imgsrc-n2022-photo-source-1"
       ]
     },
-    "notes": []
+    "notes": [],
+    "ceremonyEvidencePresent": true,
+    "ceremonyEvidenceVerified": true,
+    "ceremonyEvidenceType": "video-frame",
+    "ceremonyEvidenceSource": "Transmisión FNE 2022 — Coronación de Tiziana Vignolles (Estadio 23 de Agosto)",
+    "ceremonyEvidence": {
+      "persona": "Tiziana Vignolles",
+      "year": 2022,
+      "event": "71.ª Fiesta Nacional de los Estudiantes — Elección Nacional",
+      "type": "video-frame",
+      "category": "coronation",
+      "verified": true,
+      "source": "Canal 7 Jujuy / Somos Jujuy",
+      "sourceTitle": "Transmisión FNE 2022 — Coronación de Tiziana Vignolles (Estadio 23 de Agosto)",
+      "sourceUrl": null,
+      "url": null,
+      "timestamp": null,
+      "notes": "Transmisión audiovisual que documenta la imposición de corona a Tiziana Vignolles por parte de Pía Yécora y autoridades provinciales.",
+      "limitation": "Archivo de transmisión televisiva de Canal 7 de Jujuy; sin URL pública directa persistente."
+    }
   },
   {
     "id": "n2023",
@@ -1327,7 +1532,26 @@
         "imgsrc-n2023-photo-source-1"
       ]
     },
-    "notes": []
+    "notes": [],
+    "ceremonyEvidencePresent": true,
+    "ceremonyEvidenceVerified": true,
+    "ceremonyEvidenceType": "video-frame",
+    "ceremonyEvidenceSource": "Transmisión FNE 2023 — Coronación de Josefina Astorga (Estadio 23 de Agosto)",
+    "ceremonyEvidence": {
+      "persona": "Josefina Astorga",
+      "year": 2023,
+      "event": "72.ª Fiesta Nacional de los Estudiantes — Elección Nacional",
+      "type": "video-frame",
+      "category": "coronation",
+      "verified": true,
+      "source": "Canal 7 de Jujuy",
+      "sourceTitle": "Transmisión FNE 2023 — Coronación de Josefina Astorga (Estadio 23 de Agosto)",
+      "sourceUrl": null,
+      "url": null,
+      "timestamp": null,
+      "notes": "Transmisión audiovisual que documenta la imposición de la corona a Josefina Astorga por parte de Tiziana Vignolles.",
+      "limitation": "Archivo de transmisión televisiva de Canal 7 de Jujuy; sin URL pública directa persistente."
+    }
   },
   {
     "id": "n2024",
@@ -1426,7 +1650,12 @@
         "imgsrc-n2024-photo-source-1"
       ]
     },
-    "notes": []
+    "notes": [],
+    "ceremonyEvidencePresent": false,
+    "ceremonyEvidenceVerified": false,
+    "ceremonyEvidenceType": null,
+    "ceremonyEvidenceSource": null,
+    "ceremonyEvidence": null
   },
   {
     "id": "n2025",
@@ -1523,7 +1752,12 @@
         "exact-n2025-1"
       ]
     },
-    "notes": []
+    "notes": [],
+    "ceremonyEvidencePresent": false,
+    "ceremonyEvidenceVerified": false,
+    "ceremonyEvidenceType": null,
+    "ceremonyEvidenceSource": null,
+    "ceremonyEvidence": null
   },
   {
     "id": "n2026",
@@ -1574,32 +1808,31 @@
       "exact-n2026-1"
     ],
     "imageIds": [
-      "img-preview-n2026"
+      "img-n2026-final"
     ],
     "images": [
       {
-        "id": "img-preview-n2026",
+        "id": "img-n2026-final",
         "recordId": "n2026",
-        "url": null,
-        "sourceId": "exact-n2026-1",
-        "sourceTitle": "Constanza Lastra Errasti es la nueva Representante Nacional de los Estudiantes",
-        "originalUrl": null,
+        "url": "https://nuevodiarioweb.com.ar/galeria/fotos/2026/09/26/l_1790412556.jpg",
+        "sourceId": "imgsrc-n2026-final-source-1",
+        "sourceTitle": "nuevodiarioweb.com.ar",
+        "originalUrl": "https://nuevodiarioweb.com.ar/galeria/fotos/2026/09/26/l_1790412556.jpg",
         "imageDate": null,
-        "imageContext": "Cobertura oficial de la elección nacional 2026.",
-        "imageType": "source-preview",
-        "imageMomentConfidence": "contextual",
-        "verified": false,
-        "verificationNotes": "La imagen se obtiene de la imagen principal/metadata de la página fuente para completar la ficha visual. Requiere validación fotográfica manual antes de alimentar juegos.",
-        "credit": "Por confirmar en la fuente visual",
+        "imageContext": "Elección Nacional de los Estudiantes 2026 — coronación de Constanza Lastra Errasti",
+        "imageType": "coronation",
+        "imageMomentConfidence": "exact",
+        "verified": true,
+        "verificationNotes": "La fotografía muestra visualmente la colocación de la corona a Constanza Lastra Errasti y la cobertura contemporánea la identifica como la nueva Representante Nacional 2026.",
+        "credit": "No identificado en la fuente visual consultada",
         "rightsStatus": "unknown",
         "isPrimary": true,
-        "alt": "Constanza Lastra Errasti — fotografía de la fuente histórica 2026.",
-        "sourcePreviewUrl": "https://prensa.jujuy.gob.ar/representante/constanza-lastra-errasti-es-la-nueva-representante-nacional-los-estudiantes-n125378",
-        "imageSource": "Gobierno de Jujuy",
+        "alt": "Constanza Lastra Errasti — fotografía histórica de la cobertura 2026.",
+        "imageSource": "nuevodiarioweb.com.ar",
         "imageSourceTitle": "Constanza Lastra Errasti es la nueva Representante Nacional de los Estudiantes",
-        "imageSourceUrl": "https://prensa.jujuy.gob.ar/representante/constanza-lastra-errasti-es-la-nueva-representante-nacional-los-estudiantes-n125378",
-        "imageVerified": false,
-        "imageCredit": "Por confirmar en la fuente visual"
+        "imageSourceUrl": "https://www.nuevodiarioweb.com.ar/provinciales/info-santiago-estero-orgullo-la-santiaguena-constanza-lastra-errasti-es-la-nueva-representante-nacional-de-los-estudiantes.htm",
+        "imageVerified": true,
+        "imageCredit": "No identificado en la fuente visual consultada"
       }
     ],
     "fieldEvidence": {
@@ -1619,7 +1852,26 @@
         "exact-n2026-1"
       ]
     },
-    "notes": []
+    "notes": [],
+    "ceremonyEvidencePresent": true,
+    "ceremonyEvidenceVerified": true,
+    "ceremonyEvidenceType": "exact-photo",
+    "ceremonyEvidenceSource": "Fotografía del instante físico de coronación — Nuevo Diario Web (Estadio 23 de Agosto)",
+    "ceremonyEvidence": {
+      "persona": "Constanza Lastra Errasti",
+      "year": 2026,
+      "event": "75.ª Fiesta Nacional de los Estudiantes — Elección Nacional",
+      "type": "exact-photo",
+      "category": "coronation",
+      "verified": true,
+      "source": "Nuevo Diario Web",
+      "sourceTitle": "Fotografía del instante físico de coronación — Nuevo Diario Web (Estadio 23 de Agosto)",
+      "sourceUrl": "https://www.nuevodiarioweb.com.ar/provinciales/info-santiago-estero-orgullo-la-santiaguena-constanza-lastra-errasti-es-la-nueva-representante-nacional-de-los-estudiantes.htm",
+      "url": "https://www.nuevodiarioweb.com.ar/provinciales/info-santiago-estero-orgullo-la-santiaguena-constanza-lastra-errasti-es-la-nueva-representante-nacional-de-los-estudiantes.htm",
+      "timestamp": null,
+      "notes": "Fotografía de prensa que registra el instante físico exacto de la imposición de corona a Constanza Lastra Errasti por parte de las autoridades.",
+      "limitation": null
+    }
   },
   {
     "id": "j2010",
@@ -1729,7 +1981,12 @@
     },
     "notes": [
       "Colegio NO CONFIRMADO. Elegida Reina Provincial de Jujuy en Humahuaca (22/09/2010) representando al departamento San Pedro. Posteriormente consagrada 2.ª Dama de Honor Nacional en la Elección Reina Nacional de los Estudiantes (Estadio La Tablada, 24/09/2010). Fotografía fija de coronación no confirmada."
-    ]
+    ],
+    "ceremonyEvidencePresent": false,
+    "ceremonyEvidenceVerified": false,
+    "ceremonyEvidenceType": null,
+    "ceremonyEvidenceSource": null,
+    "ceremonyEvidence": null
   },
   {
     "id": "j2011",
@@ -1835,7 +2092,12 @@
     },
     "notes": [
       "La fuente contemporánea también usa “Colegio de las Mercedes”."
-    ]
+    ],
+    "ceremonyEvidencePresent": false,
+    "ceremonyEvidenceVerified": false,
+    "ceremonyEvidenceType": null,
+    "ceremonyEvidenceSource": null,
+    "ceremonyEvidence": null
   },
   {
     "id": "j2012",
@@ -1937,7 +2199,12 @@
         "exact-j2012-1"
       ]
     },
-    "notes": []
+    "notes": [],
+    "ceremonyEvidencePresent": false,
+    "ceremonyEvidenceVerified": false,
+    "ceremonyEvidenceType": null,
+    "ceremonyEvidenceSource": null,
+    "ceremonyEvidence": null
   },
   {
     "id": "j2013",
@@ -2046,7 +2313,12 @@
     },
     "notes": [
       "Variante institucional E.E.T./ENET Nº1."
-    ]
+    ],
+    "ceremonyEvidencePresent": false,
+    "ceremonyEvidenceVerified": false,
+    "ceremonyEvidenceType": null,
+    "ceremonyEvidenceSource": null,
+    "ceremonyEvidence": null
   },
   {
     "id": "j2014",
@@ -2153,7 +2425,12 @@
         "exact-j2014-1"
       ]
     },
-    "notes": []
+    "notes": [],
+    "ceremonyEvidencePresent": false,
+    "ceremonyEvidenceVerified": false,
+    "ceremonyEvidenceType": null,
+    "ceremonyEvidenceSource": null,
+    "ceremonyEvidence": null
   },
   {
     "id": "j2015",
@@ -2262,7 +2539,12 @@
         "exact-j2015-1"
       ]
     },
-    "notes": []
+    "notes": [],
+    "ceremonyEvidencePresent": false,
+    "ceremonyEvidenceVerified": false,
+    "ceremonyEvidenceType": null,
+    "ceremonyEvidenceSource": null,
+    "ceremonyEvidence": null
   },
   {
     "id": "j2016",
@@ -2371,7 +2653,12 @@
         "imgsrc-j2016-source-1"
       ]
     },
-    "notes": []
+    "notes": [],
+    "ceremonyEvidencePresent": false,
+    "ceremonyEvidenceVerified": false,
+    "ceremonyEvidenceType": null,
+    "ceremonyEvidenceSource": null,
+    "ceremonyEvidence": null
   },
   {
     "id": "j2017",
@@ -2482,7 +2769,12 @@
     },
     "notes": [
       "Inicio del sistema regional de cuatro regiones."
-    ]
+    ],
+    "ceremonyEvidencePresent": false,
+    "ceremonyEvidenceVerified": false,
+    "ceremonyEvidenceType": null,
+    "ceremonyEvidenceSource": null,
+    "ceremonyEvidence": null
   },
   {
     "id": "j2018",
@@ -2541,32 +2833,31 @@
       "photo-preview-j2018"
     ],
     "imageIds": [
-      "img-preview-j2018"
+      "img-j2018-final"
     ],
     "images": [
       {
-        "id": "img-preview-j2018",
+        "id": "img-j2018-final",
         "recordId": "j2018",
-        "url": null,
-        "sourceId": "photo-preview-j2018",
-        "sourceTitle": "Luciana Garzón Giacoppo es la nueva reina de Jujuy",
-        "originalUrl": null,
+        "url": "https://media.todojujuy.com/adjuntos/227/imagenes/001/002/0001002043.jpg?0000-00-00-00-00-00=",
+        "sourceId": "imgsrc-j2018-final-source-1",
+        "sourceTitle": "Todo Jujuy",
+        "originalUrl": "https://media.todojujuy.com/adjuntos/227/imagenes/001/002/0001002043.jpg?0000-00-00-00-00-00=",
         "imageDate": null,
-        "imageContext": "Cobertura histórica de la elección provincial 2018.",
-        "imageType": "source-preview",
-        "imageMomentConfidence": "contextual",
-        "verified": false,
-        "verificationNotes": "La imagen se obtiene de la imagen principal/metadata de la página fuente para completar la ficha visual. Requiere validación fotográfica manual antes de alimentar juegos.",
-        "credit": "Por confirmar en la fuente visual",
+        "imageContext": "Elección Provincial de Jujuy 2018 — Luciana Garzón Giacoppo",
+        "imageType": "post-coronation",
+        "imageMomentConfidence": "strong-contextual",
+        "verified": true,
+        "verificationNotes": "La persona está identificada en la cobertura y la imagen procede del recurso visual enlazado. Se presenta como fotografía post-coronación/evento, no como instante exacto salvo evidencia adicional.",
+        "credit": "No identificado en la fuente visual consultada",
         "rightsStatus": "unknown",
         "isPrimary": true,
-        "alt": "Luciana Garzón Giacoppo — fotografía de la fuente histórica 2018.",
-        "sourcePreviewUrl": "https://www.jujuyalmomento.com/luciana-garzon-giacoppo-es-la-nueva-reina-jujuy-n98284",
-        "imageSource": "Jujuy al Momento",
-        "imageSourceTitle": "Luciana Garzón Giacoppo es la nueva reina de Jujuy",
-        "imageSourceUrl": "https://www.jujuyalmomento.com/luciana-garzon-giacoppo-es-la-nueva-reina-jujuy-n98284",
-        "imageVerified": false,
-        "imageCredit": "Por confirmar en la fuente visual"
+        "alt": "Luciana Garzón Giacoppo — fotografía histórica de la cobertura 2018.",
+        "imageSource": "Todo Jujuy",
+        "imageSourceTitle": "Luciana Garzón Giacoppo, de la región Valles, es la nueva reina provincial por el año 2018",
+        "imageSourceUrl": "https://www.todojujuy.com/jujuy/luciana-garzon-giacoppo-la-region-valles-es-la-nueva-reina-provincial-el-ano-2018-n112404",
+        "imageVerified": true,
+        "imageCredit": "No identificado en la fuente visual consultada"
       }
     ],
     "fieldEvidence": {
@@ -2596,7 +2887,12 @@
     },
     "notes": [
       "Variante nominal y ortográfica conservada."
-    ]
+    ],
+    "ceremonyEvidencePresent": false,
+    "ceremonyEvidenceVerified": false,
+    "ceremonyEvidenceType": null,
+    "ceremonyEvidenceSource": null,
+    "ceremonyEvidence": null
   },
   {
     "id": "j2019",
@@ -2707,7 +3003,12 @@
         "imgsrc-j2019-photo-source-1"
       ]
     },
-    "notes": []
+    "notes": [],
+    "ceremonyEvidencePresent": false,
+    "ceremonyEvidenceVerified": false,
+    "ceremonyEvidenceType": null,
+    "ceremonyEvidenceSource": null,
+    "ceremonyEvidence": null
   },
   {
     "id": "j2020",
@@ -2771,7 +3072,12 @@
     },
     "notes": [
       "Sin elección por pandemia; FNE en modalidad virtual/conmemorativa."
-    ]
+    ],
+    "ceremonyEvidencePresent": false,
+    "ceremonyEvidenceVerified": false,
+    "ceremonyEvidenceType": null,
+    "ceremonyEvidenceSource": null,
+    "ceremonyEvidence": null
   },
   {
     "id": "j2021",
@@ -2880,7 +3186,12 @@
     },
     "notes": [
       "Formato extraordinario de pandemia."
-    ]
+    ],
+    "ceremonyEvidencePresent": false,
+    "ceremonyEvidenceVerified": false,
+    "ceremonyEvidenceType": null,
+    "ceremonyEvidenceSource": null,
+    "ceremonyEvidence": null
   },
   {
     "id": "j2022",
@@ -2980,7 +3291,12 @@
         "exact-j2022-1"
       ]
     },
-    "notes": []
+    "notes": [],
+    "ceremonyEvidencePresent": false,
+    "ceremonyEvidenceVerified": false,
+    "ceremonyEvidenceType": null,
+    "ceremonyEvidenceSource": null,
+    "ceremonyEvidence": null
   },
   {
     "id": "j2023",
@@ -3080,7 +3396,12 @@
         "exact-j2023-1"
       ]
     },
-    "notes": []
+    "notes": [],
+    "ceremonyEvidencePresent": false,
+    "ceremonyEvidenceVerified": false,
+    "ceremonyEvidenceType": null,
+    "ceremonyEvidenceSource": null,
+    "ceremonyEvidence": null
   },
   {
     "id": "j2024",
@@ -3187,7 +3508,12 @@
         "exact-j2024-1"
       ]
     },
-    "notes": []
+    "notes": [],
+    "ceremonyEvidencePresent": false,
+    "ceremonyEvidenceVerified": false,
+    "ceremonyEvidenceType": null,
+    "ceremonyEvidenceSource": null,
+    "ceremonyEvidence": null
   },
   {
     "id": "j2025",
@@ -3294,7 +3620,12 @@
         "exact-j2025-1"
       ]
     },
-    "notes": []
+    "notes": [],
+    "ceremonyEvidencePresent": false,
+    "ceremonyEvidenceVerified": false,
+    "ceremonyEvidenceType": null,
+    "ceremonyEvidenceSource": null,
+    "ceremonyEvidence": null
   },
   {
     "id": "j2026",
@@ -3351,32 +3682,31 @@
       "exact-j2026-2"
     ],
     "imageIds": [
-      "img-preview-j2026"
+      "img-j2026-final"
     ],
     "images": [
       {
-        "id": "img-preview-j2026",
+        "id": "img-j2026-final",
         "recordId": "j2026",
-        "url": null,
+        "url": "https://media.prensa.jujuy.gob.ar/p/e49e084948f5beb8591761d570cd1b5c/adjuntos/301/imagenes/000/433/0000433614/1200x0/smart/eleccion-reina-provincial-2026-747jpg.jpeg",
         "sourceId": "exact-j2026-1",
-        "sourceTitle": "Morella Gira López es la nueva Representante Provincial de Jujuy",
-        "originalUrl": null,
+        "sourceTitle": "Gobierno de Jujuy",
+        "originalUrl": "https://media.prensa.jujuy.gob.ar/p/e49e084948f5beb8591761d570cd1b5c/adjuntos/301/imagenes/000/433/0000433614/1200x0/smart/eleccion-reina-provincial-2026-747jpg.jpeg",
         "imageDate": null,
-        "imageContext": "Cobertura histórica de la elección provincial 2026.",
-        "imageType": "source-preview",
-        "imageMomentConfidence": "contextual",
-        "verified": false,
-        "verificationNotes": "La imagen se obtiene de la imagen principal/metadata de la página fuente para completar la ficha visual. Requiere validación fotográfica manual antes de alimentar juegos.",
-        "credit": "Por confirmar en la fuente visual",
+        "imageContext": "Elección Provincial de Jujuy 2026 — Morella Gira López",
+        "imageType": "post-coronation",
+        "imageMomentConfidence": "strong-contextual",
+        "verified": true,
+        "verificationNotes": "La persona está identificada en la cobertura y la imagen procede del recurso visual enlazado. Se presenta como fotografía post-coronación/evento, no como instante exacto salvo evidencia adicional.",
+        "credit": "No identificado en la fuente visual consultada",
         "rightsStatus": "unknown",
         "isPrimary": true,
-        "alt": "Morella Gira López — fotografía de la fuente histórica 2026.",
-        "sourcePreviewUrl": "https://prensa.jujuy.gob.ar/representante/morella-gira-lopez-es-la-nueva-representante-provincial-jujuy-n125328",
+        "alt": "Morella Gira López — fotografía histórica de la cobertura 2026.",
         "imageSource": "Gobierno de Jujuy",
-        "imageSourceTitle": "Morella Gira López es la nueva Representante Provincial de Jujuy",
+        "imageSourceTitle": "Gobierno de Jujuy",
         "imageSourceUrl": "https://prensa.jujuy.gob.ar/representante/morella-gira-lopez-es-la-nueva-representante-provincial-jujuy-n125328",
-        "imageVerified": false,
-        "imageCredit": "Por confirmar en la fuente visual"
+        "imageVerified": true,
+        "imageCredit": "No identificado en la fuente visual consultada"
       }
     ],
     "fieldEvidence": {
@@ -3406,6 +3736,11 @@
     },
     "notes": [
       "La fuente primaria usa “Morella Gira López”; se conserva la variante con “Kiara”."
-    ]
+    ],
+    "ceremonyEvidencePresent": false,
+    "ceremonyEvidenceVerified": false,
+    "ceremonyEvidenceType": null,
+    "ceremonyEvidenceSource": null,
+    "ceremonyEvidence": null
   }
 ]
