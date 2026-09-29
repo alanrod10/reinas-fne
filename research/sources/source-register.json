@@ -1,0 +1,436 @@
+[
+  {
+    "id": "src-todojujuy",
+    "type": "contemporary-media",
+    "publisher": "Todo Jujuy",
+    "url": "https://www.todojujuy.com/"
+  },
+  {
+    "id": "src-tribuno",
+    "type": "contemporary-media",
+    "publisher": "El Tribuno de Jujuy",
+    "url": "https://eltribunodejujuy.com/"
+  },
+  {
+    "id": "src-gobjujuy",
+    "type": "primary",
+    "publisher": "Gobierno de Jujuy",
+    "url": "https://prensa.jujuy.gob.ar/"
+  },
+  {
+    "id": "src-unjuradio",
+    "type": "institutional",
+    "publisher": "UNJu Radio",
+    "url": "https://unjuradio.unju.edu.ar/"
+  },
+  {
+    "id": "src-jujuyalmomento",
+    "type": "contemporary-media",
+    "publisher": "Jujuy al Momento",
+    "url": "https://www.jujuyalmomento.com/"
+  },
+  {
+    "id": "src-somosjujuy",
+    "type": "contemporary-media",
+    "publisher": "Somos Jujuy",
+    "url": "https://www.somosjujuy.com.ar/"
+  },
+  {
+    "id": "src-lagaceta",
+    "type": "contemporary-media",
+    "publisher": "La Gaceta",
+    "url": "https://www.lagaceta.com.ar/"
+  },
+  {
+    "id": "src-elsol",
+    "type": "contemporary-media",
+    "publisher": "El Sol",
+    "url": "https://www.elsol.com.ar/"
+  },
+  {
+    "id": "src-eldiariolapampa",
+    "type": "contemporary-media",
+    "publisher": "El Diario de La Pampa",
+    "url": "https://www.eldiariodelapampa.com.ar/"
+  },
+  {
+    "id": "src-elchubut",
+    "type": "contemporary-media",
+    "publisher": "El Chubut",
+    "url": "https://www.elchubut.com.ar/"
+  },
+  {
+    "id": "src-misionesonline",
+    "type": "contemporary-media",
+    "publisher": "Misiones Online",
+    "url": "https://misionesonline.net/"
+  },
+  {
+    "id": "src-territorio",
+    "type": "contemporary-media",
+    "publisher": "El Territorio",
+    "url": "https://www.elterritorio.com.ar/"
+  },
+  {
+    "id": "src-minutouno",
+    "type": "contemporary-media",
+    "publisher": "MinutoUno",
+    "url": "https://www.minutouno.com/"
+  },
+  {
+    "id": "src-pregon",
+    "type": "contemporary-media",
+    "publisher": "Pregón",
+    "url": "https://www.pregon.com.ar/"
+  },
+  {
+    "id": "src-dipec-map",
+    "type": "primary",
+    "publisher": "DiPEC / Provincia de Jujuy",
+    "url": "https://dipec.jujuy.gob.ar/minisite-mapasgeoreferenciados-censo2010/mapasgeoreferenciados.php"
+  },
+  {
+    "id": "src-wikimedia-argentina-map",
+    "type": "secondary",
+    "publisher": "Wikimedia Commons · Hogweard",
+    "url": "https://commons.wikimedia.org/wiki/File:Argentina_-_mapa_de_las_provincias.svg"
+  },
+  {
+    "id": "src-gazeta",
+    "type": "contemporary-media",
+    "publisher": "Gazeta Jujuy",
+    "url": "https://www.gazetajujuy.com.ar/"
+  },
+  {
+    "id": "exact-n2010-1",
+    "type": "contemporary-media",
+    "publisher": "MinutoUno",
+    "url": "https://www.minutouno.com/sociedad/ella-es-la-reina-los-estudiantes-n135786",
+    "title": "Ella es la reina de los estudiantes",
+    "accessedAt": "2026-09-29"
+  },
+  {
+    "id": "exact-n2011-1",
+    "type": "contemporary-media",
+    "publisher": "Misiones Online",
+    "url": "https://misionesonline.net/2011/10/01/la-misionera-ailen-sciutto-es-la-nueva-reina-nacional-de-los-estudiantes/"
+  },
+  {
+    "id": "exact-n2012-1",
+    "type": "contemporary-media",
+    "publisher": "El Tribuno",
+    "url": "https://eltribuno.com/nota/2012-9-29-9-40-0-la-mendocina-carla-lucia-romanini-reina-nacional-de-los-estudiantes"
+  },
+  {
+    "id": "exact-n2013-1",
+    "type": "contemporary-media",
+    "publisher": "Todo Jujuy",
+    "url": "https://www.todojujuy.com/jujuy/el-gobierno-jujuy-corono-victoria-como-reina-nacional-los-estudiantes-n13994"
+  },
+  {
+    "id": "exact-n2014-1",
+    "type": "contemporary-media",
+    "publisher": "El Chubut",
+    "url": "https://www.elchubut.com.ar/regionales/2014-9-28-chubutense-es-reina-nacional-de-los-estudiantes"
+  },
+  {
+    "id": "exact-n2015-1",
+    "type": "contemporary-media",
+    "publisher": "El Tribuno",
+    "url": "https://www.eltribuno.com/nota/2015-9-21-17-18-0-valentina-oller-brezina-la-reina-de-jujuy-espectaculos"
+  },
+  {
+    "id": "exact-n2016-1",
+    "type": "primary",
+    "publisher": "Gobierno de Jujuy",
+    "url": "https://prensa.jujuy.gob.ar/fne/morales-este-ano-se-logro-el-cambio-la-fiesta-los-estudiantes-n4497"
+  },
+  {
+    "id": "exact-n2017-1",
+    "type": "primary",
+    "publisher": "Gobierno de Jujuy",
+    "url": "https://prensa.jujuy.gob.ar/66-edicion-la-fiesta-nacional-los-estudiantes/brillante-coronacion-la-nueva-reina-nacional-los-estudiantes-n24710"
+  },
+  {
+    "id": "exact-n2018-1",
+    "type": "contemporary-media",
+    "publisher": "Todo Jujuy",
+    "url": "https://www.todojujuy.com/jujuy/fne-la-historia-la-reina-nacional-que-se-enamoro-jujuy-n139703/amp"
+  },
+  {
+    "id": "exact-n2019-1",
+    "type": "contemporary-media",
+    "publisher": "Todo Jujuy",
+    "url": "https://www.todojujuy.com/jujuy/camila-iglesias-es-la-nueva-reina-nacional-los-estudiantes-n126383",
+    "title": "Camila Iglesias es la nueva Reina Nacional de los Estudiantes",
+    "accessedAt": "2026-09-29"
+  },
+  {
+    "id": "exact-n2020-1",
+    "type": "contemporary-media",
+    "publisher": "La Gaceta",
+    "url": "https://www.lagaceta.com.ar/nota/860504/actualidad/sin-carrozas-ni-reinas-fiesta-nacional-estudiantes-se-hara-modo-virtual-jujuy.html"
+  },
+  {
+    "id": "exact-n2021-1",
+    "type": "institutional",
+    "publisher": "UNJu Radio",
+    "url": "https://unjuradio.unju.edu.ar/70-edicion-de-la-fne-pia-yecora-fue-elegida-representante-nacional-de-los-estudiantes-2021/"
+  },
+  {
+    "id": "exact-n2022-1",
+    "type": "primary",
+    "publisher": "Gobierno de Jujuy",
+    "url": "https://prensa.jujuy.gob.ar/representante-nacional/jujuy-tiene-nueva-representante-nacional-los-estudiantes-n108627"
+  },
+  {
+    "id": "exact-n2023-1",
+    "type": "primary",
+    "publisher": "Gobierno de Jujuy",
+    "url": "https://prensa.jujuy.gob.ar/fne-2023/jujuy-tiene-nueva-representante-nacional-los-estudiantes-n112932"
+  },
+  {
+    "id": "exact-n2024-1",
+    "type": "primary",
+    "publisher": "Gobierno de Jujuy",
+    "url": "https://prensa.jujuy.gob.ar/representante-nacional/la-representante-la-provincia-la-pampa-es-representante-nacional-los-estudiantes-n116824"
+  },
+  {
+    "id": "exact-n2025-1",
+    "type": "primary",
+    "publisher": "Gobierno de Jujuy",
+    "url": "https://prensa.jujuy.gob.ar/jujuy/la-energia-jujuy-brillo-la-eleccion-la-representante-nacional-los-estudiantes-n121119",
+    "title": "La energía de Jujuy brilló en la elección de la Representante Nacional de los Estudiantes",
+    "accessedAt": "2026-09-29"
+  },
+  {
+    "id": "exact-n2026-1",
+    "type": "primary",
+    "publisher": "Gobierno de Jujuy",
+    "url": "https://prensa.jujuy.gob.ar/representante/constanza-lastra-errasti-es-la-nueva-representante-nacional-los-estudiantes-n125378"
+  },
+  {
+    "id": "exact-j2010-1",
+    "type": "secondary",
+    "publisher": "Diario Nueva Ciudad",
+    "url": "https://diarionuevaciudad.blogspot.com/2010/09/saludo-protocolar-de-las-reinas.html"
+  },
+  {
+    "id": "exact-j2010-2",
+    "type": "secondary",
+    "publisher": "Fiestas Estudiantiles",
+    "url": "https://fiestasestudiantiles.blogspot.com/2010/11/fiesta-nacional-de-los-estudiantes-en_17.html"
+  },
+  {
+    "id": "exact-j2011-1",
+    "type": "contemporary-media",
+    "publisher": "Jujuy al Momento",
+    "url": "https://www.jujuyalmomento.com/destacadas/iris-yanez-es-la-flamante-reina-provincial-los-estudiantes-n3597"
+  },
+  {
+    "id": "exact-j2012-1",
+    "type": "contemporary-media",
+    "publisher": "Todo Jujuy",
+    "url": "https://www.todojujuy.com/jujuy/maria-macarena-es-reina-jujuy-2012-n2552"
+  },
+  {
+    "id": "exact-j2013-1",
+    "type": "contemporary-media",
+    "publisher": "Todo Jujuy",
+    "url": "https://www.todojujuy.com/jujuy/valentina-mammana-fue-coronada-reina-los-estudiantes-capital-n13788"
+  },
+  {
+    "id": "exact-j2013-2",
+    "type": "contemporary-media",
+    "publisher": "Gazeta Jujuy",
+    "url": "https://www.gazetajujuy.com.ar/2443/valentina-es-la-reina-de-la-provincia-de-jujuy-2013/"
+  },
+  {
+    "id": "exact-j2014-1",
+    "type": "contemporary-media",
+    "publisher": "Todo Jujuy",
+    "url": "https://www.todojujuy.com/jujuy/jujuy-corono-florencia-como-la-nueva-reina-provincial-n25787"
+  },
+  {
+    "id": "exact-j2014-2",
+    "type": "contemporary-media",
+    "publisher": "El Tribuno de Jujuy",
+    "url": "https://eltribunodejujuy.com/nota/2014-9-21-0-44-0-florencia-cardarelli-es-la-reina-onda-estudiantil-reina-de-los-estudiantes"
+  },
+  {
+    "id": "exact-j2015-1",
+    "type": "contemporary-media",
+    "publisher": "Todo Jujuy",
+    "url": "https://www.todojujuy.com/jujuy/valentina-oller-es-la-reina-capital-n39534"
+  },
+  {
+    "id": "exact-j2016-1",
+    "type": "contemporary-media",
+    "publisher": "Todo Jujuy",
+    "url": "https://www.todojujuy.com/jujuy/revivi-lo-mejor-la-eleccion-provincial-n52742"
+  },
+  {
+    "id": "exact-j2016-2",
+    "type": "contemporary-media",
+    "publisher": "Jujuy al Momento",
+    "url": "https://www.jujuyalmomento.com/fne/manuela-poma-es-la-nueva-reina-capital-n45042"
+  },
+  {
+    "id": "exact-j2017-1",
+    "type": "primary",
+    "publisher": "Gobierno de Jujuy",
+    "url": "https://prensa.jujuy.gob.ar/ambar-luna-saad/ambar-luna-saad-agradecio-el-carino-todo-jujuy-n24960"
+  },
+  {
+    "id": "exact-j2017-2",
+    "type": "primary",
+    "publisher": "Gobierno de Jujuy",
+    "url": "https://prensa.jujuy.gob.ar/abanderada-del-colegio-secundario-arte-n-49-tilcara/reina-los-estudiantes-y-abanderada-su-colegio-n29294"
+  },
+  {
+    "id": "exact-j2018-1",
+    "type": "contemporary-media",
+    "publisher": "Somos Jujuy",
+    "url": "https://www.somosjujuy.com.ar/fne/luciana-garzon-giacoppo-reina-carmen-n7408"
+  },
+  {
+    "id": "exact-j2018-2",
+    "type": "contemporary-media",
+    "publisher": "El Tribuno de Jujuy",
+    "url": "https://eltribunodejujuy.com/nota/2018-9-17-0-0-0-espectacular-eleccion-de-la-reina-en-el-carmen/amp"
+  },
+  {
+    "id": "exact-j2019-1",
+    "type": "contemporary-media",
+    "publisher": "Somos Jujuy",
+    "url": "https://www.somosjujuy.com.ar/fne/mikaela-viscarra-reina-departamental-carmen-n20518/amp"
+  },
+  {
+    "id": "exact-j2019-2",
+    "type": "contemporary-media",
+    "publisher": "El Tribuno de Jujuy",
+    "url": "https://eltribunodejujuy.com/nota/2019-9-26-2-0-0-mikaela-fue-coronada-como-reina-provincial"
+  },
+  {
+    "id": "exact-j2020-1",
+    "type": "contemporary-media",
+    "publisher": "Todo Jujuy",
+    "url": "https://www.todojujuy.com/jujuy/fne-conoce-las-ultimas-cinco-representantes-jujuy-n225060"
+  },
+  {
+    "id": "exact-j2020-2",
+    "type": "contemporary-media",
+    "publisher": "Somos Jujuy",
+    "url": "https://www.somosjujuy.com.ar/fne/fne-tiempo-pandemia-proponen-realizar-elecciones-manera-virtual-n29050"
+  },
+  {
+    "id": "exact-j2021-1",
+    "type": "contemporary-media",
+    "publisher": "Todo Jujuy",
+    "url": "https://www.todojujuy.com/jujuy/fiesta-nacional-los-estudiantes-eleccion-provincial-n209227"
+  },
+  {
+    "id": "exact-j2022-1",
+    "type": "contemporary-media",
+    "publisher": "Todo Jujuy",
+    "url": "https://www.todojujuy.com/jujuy/fne-2022-rocio-montiel-es-la-representante-jujuy-n225123"
+  },
+  {
+    "id": "exact-j2023-1",
+    "type": "contemporary-media",
+    "publisher": "Todo Jujuy",
+    "url": "https://www.todojujuy.com/sociedad/fne-2023-maria-paz-jure-es-la-representante-jujuy-n240117"
+  },
+  {
+    "id": "exact-j2024-1",
+    "type": "contemporary-media",
+    "publisher": "Todo Jujuy",
+    "url": "https://www.todojujuy.com/jujuy/josefina-blanco-es-la-representante-la-provincia-jujuy-la-fne-2024-n258059"
+  },
+  {
+    "id": "exact-j2024-2",
+    "type": "contemporary-media",
+    "publisher": "El Tribuno de Jujuy",
+    "url": "https://eltribunodejujuy.com/nota/2024-9-7-8-0-0-josefina-es-la-representante-del-departamento-ledesma"
+  },
+  {
+    "id": "exact-j2025-1",
+    "type": "contemporary-media",
+    "publisher": "Todo Jujuy",
+    "url": "https://www.todojujuy.com/jujuy/maria-victoria-zamar-estoy-muy-feliz-y-emocionada-poder-representar-la-provincia-n279790"
+  },
+  {
+    "id": "exact-j2025-2",
+    "type": "contemporary-media",
+    "publisher": "El Tribuno de Jujuy",
+    "url": "https://www.eltribunodejujuy.com/informacion-general/2025-9-15-0-46-0-maria-victoria-zamar-es-la-flamante-soberana-del-departamento-dr-manuel-belgrano"
+  },
+  {
+    "id": "exact-j2026-1",
+    "type": "primary",
+    "publisher": "Gobierno de Jujuy",
+    "url": "https://prensa.jujuy.gob.ar/representante/morella-gira-lopez-es-la-nueva-representante-provincial-jujuy-n125328"
+  },
+  {
+    "id": "exact-j2026-2",
+    "type": "contemporary-media",
+    "publisher": "Jujuy al Momento",
+    "url": "https://www.jujuyalmomento.com/el-carmen/morella-gira-lopez-es-la-nueva-representante-del-colegio-secundario-n-56-el-carmen-n204277"
+  },
+  {
+    "id": "imgsrc-n2013-source-1",
+    "type": "contemporary-media",
+    "publisher": "Todo Jujuy",
+    "url": "https://www.todojujuy.com/jujuy/victoria-colovatti-es-nuestra-reina-nacional-los-estudiantes-2013-n13981",
+    "title": "Victoria Colovatti es nuestra Reina Nacional de los Estudiantes 2013",
+    "accessedAt": "2026-09-29"
+  },
+  {
+    "id": "imgsrc-n2015-source-1",
+    "type": "contemporary-media",
+    "publisher": "Todo Jujuy",
+    "url": "https://www.todojujuy.com/jujuy/valentina-oller-es-la-reina-nacional-los-estudiantes-n39840",
+    "title": "Valentina Oller es la Reina Nacional de los Estudiantes",
+    "accessedAt": "2026-09-29"
+  },
+  {
+    "id": "imgsrc-n2016-source-1",
+    "type": "contemporary-media",
+    "publisher": "La Gaceta Salta",
+    "url": "https://www.lagacetasalta.com.ar/nota/61849/sociedad/fotos-nueva-reina-nacional-estudiantes.html",
+    "title": "Las fotos de la nueva Reina Nacional de los Estudiantes",
+    "accessedAt": "2026-09-29"
+  },
+  {
+    "id": "imgsrc-j2016-source-1",
+    "type": "contemporary-media",
+    "publisher": "Todo Jujuy",
+    "url": "https://www.todojujuy.com/jujuy/manuela-poma-es-la-hermosa-reina-jujuy-n52741",
+    "title": "Manuela Poma es la hermosa reina de Jujuy",
+    "accessedAt": "2026-09-29"
+  },
+  {
+    "id": "imgsrc-n2014-source-1",
+    "type": "contemporary-media",
+    "publisher": "Todo Jujuy",
+    "url": "https://www.todojujuy.com/jujuy/carolina-silva-la-nueva-reina-nacional-los-estudiantes-n25996",
+    "title": "Carolina Silva la nueva Reina Nacional de los Estudiantes",
+    "accessedAt": "2026-09-29"
+  },
+  {
+    "id": "imgsrc-n2017-source-1",
+    "type": "contemporary-media",
+    "publisher": "Todo Jujuy",
+    "url": "https://www.todojujuy.com/jujuy/ambar-luna-saad-fue-coronada-reina-nacional-los-estudiantes-n64567",
+    "title": "Ambar Luna Saad fue coronada Reina Nacional de los Estudiantes",
+    "accessedAt": "2026-09-29"
+  },
+  {
+    "id": "imgsrc-n2018-source-1",
+    "type": "contemporary-media",
+    "publisher": "vientostucumanos.com.ar",
+    "url": "https://vientostucumanos.com.ar/contenido/704/jujuy-victoria-telecher-es-la-nueva-reina-nacional-de-los-estudiantes",
+    "title": "Jujuy: Victoria Telecher es la nueva Reina Nacional de los Estudiantes",
+    "accessedAt": "2026-09-29"
+  }
+]
