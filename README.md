@@ -16,7 +16,7 @@ Aplicación web estática, responsive y data-driven para explorar la historia na
 ### Cobertura fotográfica
 - **32/32 registros efectivos tienen una fotografía/fuente fotográfica asociada en la ficha.**
 - **31/32 tienen una URL de imagen directa marcada como verificada.**
-- **9/32 tienen una vista dinámica obtenida desde la imagen principal/metadata de su fuente periodística o institucional.** Estas nueve se muestran explícitamente como `POR VALIDAR` y no alimentan los juegos fotográficos hasta una validación manual.
+- **1/32 (María Sol Gutiérrez Mora, Jujuy 2010) tiene una vista dinámica obtenida desde la imagen principal/metadata de su fuente periodística o institucional.** Esta ficha se muestra explícitamente como `POR VALIDAR` y no alimenta los juegos fotográficos hasta una validación manual.
 - 2020 no genera fotografía de reina porque no hubo elección.
 - No se utilizan fotografías históricas generadas por IA.
 - No se presenta una fotografía post-coronación como si fuera necesariamente el instante exacto de colocación de la corona.
@@ -55,7 +55,7 @@ Los registros y estados individuales están detallados en `PHOTO-AUDIT-32.json` 
 La batería histórica/funcional actual pasa sin errores. El entorno de ejecución no permitió una prueba E2E estable mediante Chromium/Playwright; no se declara esa prueba como aprobada.
 
 ### Recursos fotográficos externos
-Las fotografías se sirven desde sus URLs de origen o, para las 9 fichas marcadas `source-preview`, se resuelve en el navegador la imagen principal/metadata de la página fuente. La disponibilidad futura depende del servidor de origen y del resolver externo.
+Las fotografías se sirven desde sus URLs de origen o, para la ficha marcada `source-preview` (j2010), se resuelve en el navegador la imagen principal/metadata de la página fuente. La disponibilidad futura depende del servidor de origen y del resolver externo.
 
 ### Arquitectura
 La versión ejecutable final es HTML/CSS/JavaScript estático y no requiere un build step obligatorio. Los informes de Gate 8 documentan la arquitectura propuesta; la implementación final priorizó portabilidad y ejecución inmediata.

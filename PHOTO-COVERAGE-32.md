@@ -4,7 +4,7 @@ Generado desde data.js.
 
 - Fichas con fotografía asociada: 32/32
 - Fotografías directas verificadas: 31/32
-- Fotografías desde página fuente pendientes de validación directa: 4/32
+- Fotografías desde página fuente pendientes de validación directa: 1/32
 - Fichas sin fotografía: 0
 
 ## Detalle
@@ -26,7 +26,7 @@ Generado desde data.js.
 | 2023 | national | Josefina Astorga | VERIFICADA DIRECTA | post-coronation | Fotografía publicada por La Gaceta |
 | 2024 | national | Martina Rauschenberger | VERIFICADA DIRECTA | post-coronation | Fotografía de Martina Rauschenberger 2024 |
 | 2025 | national | Sofía Alanís Masino | VERIFICADA DIRECTA | post-coronation | La energía de Jujuy brilló en la elección de la Representante Nacional de los Estudiantes |
-| 2026 | national | Constanza Lastra Errasti | FUENTE · POR VALIDAR | source-preview | Constanza Lastra Errasti es la nueva Representante Nacional de los Estudiantes |
+| 2026 | national | Constanza Lastra Errasti | VERIFICADA DIRECTA | coronation | Constanza Lastra Errasti es la nueva Representante Nacional de los Estudiantes |
 | 2010 | jujuy-provincial | María Sol Gutiérrez Mora | FUENTE · POR VALIDAR | source-preview | María Sol Gutiérrez Mora, soberana del golf |
 | 2011 | jujuy-provincial | Iris del Valle Yáñez | VERIFICADA DIRECTA | official-event | le-kar.blogspot.com |
 | 2012 | jujuy-provincial | María Macarena García Melano | VERIFICADA DIRECTA | post-coronation | Todo Jujuy |
@@ -35,11 +35,11 @@ Generado desde data.js.
 | 2015 | jujuy-provincial | Valentina Oller Brezina | VERIFICADA DIRECTA | post-coronation | Valentina Oller es la reina de Capital |
 | 2016 | jujuy-provincial | Manuela Poma | VERIFICADA DIRECTA | post-coronation | Manuela Poma es la hermosa reina de Jujuy |
 | 2017 | jujuy-provincial | Ámbar Luna Saad | VERIFICADA DIRECTA | post-coronation | Ambar Luna Saad fue coronada Reina Nacional de los Estudiantes |
-| 2018 | jujuy-provincial | Luciana Garzón Giacoppo | FUENTE · POR VALIDAR | source-preview | Luciana Garzón Giacoppo es la nueva reina de Jujuy |
+| 2018 | jujuy-provincial | Luciana Garzón Giacoppo | VERIFICADA DIRECTA | post-coronation | Luciana Garzón Giacoppo, de la región Valles, es la nueva reina provincial por el año 2018 |
 | 2019 | jujuy-provincial | Mikaela Viscarra | VERIFICADA DIRECTA | post-coronation | Mikaela Viscarra es la representante de Jujuy |
 | 2021 | jujuy-provincial | Pía Yécora | VERIFICADA DIRECTA | post-coronation | Todo Jujuy |
 | 2022 | jujuy-provincial | Rocío Montiel | VERIFICADA DIRECTA | post-coronation | Rocío Montiel es la Representante de Jujuy 2022 |
 | 2023 | jujuy-provincial | María Paz Jure | VERIFICADA DIRECTA | post-coronation | Todo Jujuy |
 | 2024 | jujuy-provincial | Josefina Blanco | VERIFICADA DIRECTA | post-coronation | Todo Jujuy |
 | 2025 | jujuy-provincial | María Victoria Zamar | VERIFICADA DIRECTA | post-coronation | María Victoria Zamar, Representante Provincial 2025 |
-| 2026 | jujuy-provincial | Morella Gira López | FUENTE · POR VALIDAR | source-preview | Morella Gira López es la nueva Representante Provincial de Jujuy |
+| 2026 | jujuy-provincial | Morella Gira López | VERIFICADA DIRECTA | post-coronation | Gobierno de Jujuy |
