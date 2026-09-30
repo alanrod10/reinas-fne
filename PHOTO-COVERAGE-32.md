@@ -19,11 +19,11 @@ Generado desde data.js.
 | 2015 | national | Valentina Oller Brezina | VERIFICADA DIRECTA | post-coronation | Valentina Oller es la Reina Nacional de los Estudiantes |
 | 2016 | national | María Cielo Pacheco | VERIFICADA DIRECTA | post-coronation | Las fotos de la nueva Reina Nacional de los Estudiantes |
 | 2017 | national | Ámbar Luna Saad | VERIFICADA DIRECTA | post-coronation | Ambar Luna Saad fue coronada Reina Nacional de los Estudiantes |
-| 2018 | national | Victoria Telecher | VERIFICADA DIRECTA | post-coronation | Jujuy: Victoria Telecher es la nueva Reina Nacional de los Estudiantes |
+| 2018 | national | Victoria Telecher | VERIFICADA DIRECTA | post-coronation | Victoria Telecher, de Santa Fe, es la nueva Reina Nacional de los Estudiantes |
 | 2019 | national | Camila Iglesias | VERIFICADA DIRECTA | post-coronation | Camila Iglesias es la nueva Reina Nacional de los Estudiantes |
 | 2021 | national | Pía Yécora | VERIFICADA DIRECTA | post-coronation | Pía Yécora fue coronada Representante Nacional |
 | 2022 | national | Tiziana Vignolles | VERIFICADA DIRECTA | post-coronation | Tiziana Vignolles es la Representante Nacional |
-| 2023 | national | Josefina Astorga | VERIFICADA DIRECTA | post-coronation | Fotografía publicada por La Gaceta |
+| 2023 | national | Josefina Astorga | VERIFICADA DIRECTA | post-coronation | FNE 2023: Josefina Astorga de Tucumán es la nueva Representante Nacional |
 | 2024 | national | Martina Rauschenberger | VERIFICADA DIRECTA | post-coronation | Fotografía de Martina Rauschenberger 2024 |
 | 2025 | national | Sofía Alanís Masino | VERIFICADA DIRECTA | post-coronation | La energía de Jujuy brilló en la elección de la Representante Nacional de los Estudiantes |
 | 2026 | national | Constanza Lastra Errasti | VERIFICADA DIRECTA | coronation | Constanza Lastra Errasti es la nueva Representante Nacional de los Estudiantes |
