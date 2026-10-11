@@ -18,9 +18,9 @@
   const sanitizeUrl=url=>{
     if(!url) return '#';
     try {
-      const u = new URL(url, 'https://example.com');
+      const u = new URL(url.trim(), 'https://example.com');
       if(u.protocol === 'javascript:' || u.protocol === 'data:' || u.protocol === 'vbscript:') return '#';
-      return url;
+      return url.trim();
     } catch(e) {
       return '#';
     }
