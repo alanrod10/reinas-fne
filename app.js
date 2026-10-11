@@ -19,8 +19,9 @@
     if(!url) return '#';
     try {
       const u = new URL(url.trim(), 'https://example.com');
-      if(u.protocol === 'javascript:' || u.protocol === 'data:' || u.protocol === 'vbscript:') return '#';
-      return url.trim();
+      // Using an allowlist of valid protocols as per explicit instructions
+      if(u.protocol === 'http:' || u.protocol === 'https:') return url.trim();
+      return '#';
     } catch(e) {
       return '#';
     }
