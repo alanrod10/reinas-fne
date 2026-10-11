@@ -408,7 +408,7 @@
         if(!res.ok) throw new Error('metadata');
         const json=await res.json(); const imageUrl=json?.data?.image?.url;
         if(!imageUrl) throw new Error('no-image');
-        const img=document.createElement('img'); img.src=imageUrl; img.alt=`Fotografía histórica — fuente ${src}`; img.loading='lazy'; img.referrerPolicy='no-referrer';
+        const img=document.createElement('img'); img.src=sanitizeUrl(imageUrl); img.alt=`Fotografía histórica — fuente ${src}`; img.loading='lazy'; img.referrerPolicy='no-referrer';
         img.addEventListener('error',()=>{el.innerHTML='<span>FOTOGRAFÍA DE FUENTE NO DISPONIBLE</span>';},{once:true});
         el.innerHTML=''; el.appendChild(img); el.classList.add('has-photo','source-resolved');
       }catch(e){ el.innerHTML=`<div class="source-fallback"><span>Fotografía disponible en la fuente</span><a href="${escUrl(src)}" target="_blank" rel="noopener">Abrir fuente ↗</a></div>`; }
